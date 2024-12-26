@@ -18,8 +18,8 @@
   "require": {
     "php": ">=8.1",
     "nekofar/slim-test": "dev-develop",
-    "pestphp/pest": "^2.0",
-    "pestphp/pest-plugin": "^2.0"
+    "pestphp/pest": "^3.0",
+    "pestphp/pest-plugin": "^3.0"
   },
   "conflict": {
     "nekofar/slim-test": "<=3.2.0"
